@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Z
+Comment=A flat theme with transparent elements based on Arc and OSX-Ark-White
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc
+MetacityTheme=Arc
+IconTheme=Paper
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
